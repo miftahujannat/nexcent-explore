@@ -30,6 +30,18 @@
     font-weight: 400px;
     font-size: 50px;
 }
+.text-p{
+    padding-right: 50px;
+    font-weight: 300;
+    font-size: 15px;
+    
+}
+.dot-img{
+    align-items: center;
+    margin-top:80px;
+    padding-left: 400px;
+    margin-bottom: -20px;
+}
 .text-size-2{
     font-weight: 300px;
     font-size: 40px;
@@ -37,4 +49,11 @@
 
 .text-colour{
     color: #4CAF4F;
+}
+
+/* section our clients */
+.section{
+   gap: 120px;
+   align-items: center;
+   padding-left: 200px;
 }
