@@ -1,0 +1,40 @@
+.head{
+    gap: 5px;
+}
+.head-bg{
+    background-color: white;
+}
+
+.li-style{
+    list-style: none;
+    gap:43px
+}
+.bg-colour{
+    background-color:#4CAF4F;
+    ;
+}
+.li-colour{
+    color: #263238;
+    ;
+}
+/* lesson2 */
+.main-all{
+    padding-top: 58px;
+    gap: 58px;
+    justify-content: center;
+}
+.bg-main{
+    background-color: rgb(243, 242, 242);
+}
+.text-size{
+    font-weight: 400px;
+    font-size: 50px;
+}
+.text-size-2{
+    font-weight: 300px;
+    font-size: 40px;
+}
+
+.text-colour{
+    color: #4CAF4F;
+}
