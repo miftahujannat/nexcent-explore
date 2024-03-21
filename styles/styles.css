@@ -1,8 +1,10 @@
 .head{
     gap: 5px;
+    padding-left: 120px;
 }
+
 .head-bg{
-    background-color: white;
+    background-color:white ;
 }
 
 .li-style{
@@ -20,40 +22,56 @@
 /* lesson2 */
 .main-all{
     padding-top: 58px;
-    gap: 58px;
+   
     justify-content: center;
 }
-.bg-main{
-    background-color: rgb(243, 242, 242);
+.main-item{
+    padding-right: 100px;
+    padding-top: 45px;
+    margin-bottom: 10px;
 }
-.text-size{
-    font-weight: 400px;
-    font-size: 50px;
+.bg-main{
+    background-color: #F5F7FA;
 }
 .text-p{
+    color:rgb(165, 163, 163);
     padding-right: 50px;
     font-weight: 300;
     font-size: 15px;
     
 }
 .dot-img{
-    align-items: center;
-    margin-top:80px;
-    padding-left: 400px;
-    margin-bottom: -20px;
+    margin-top:150px;
+    padding-left: 380px;
+   
 }
-.text-size-2{
-    font-weight: 300px;
-    font-size: 40px;
+.img-p{
+    padding-top: 30px;
+    padding-right: 100px;
+    margin-bottom: 10px;
 }
-
 .text-colour{
     color: #4CAF4F;
 }
 
 /* section our clients */
 .section{
-   gap: 120px;
+   gap: 28px;
    align-items: center;
    padding-left: 200px;
+}
+
+/* section-2 community */
+.p-text{
+    color: rgb(165, 163, 163);
+}
+.section{
+    gap: 150px;
+}
+.text-card{
+    color: rgb(182, 182, 182);
+}
+.card-item{
+    padding-left: 280px;
+    gap: 200px;
 }
