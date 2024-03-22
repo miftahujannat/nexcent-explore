@@ -34,7 +34,7 @@
     background-color: #F5F7FA;
 }
 .text-p{
-    color:rgb(165, 163, 163);
+    color: rgb(139, 139, 139);
     padding-right: 50px;
     font-weight: 300;
     font-size: 15px;
@@ -63,13 +63,13 @@
 
 /* section-2 community */
 .p-text{
-    color: rgb(165, 163, 163);
+    color: rgb(139, 139, 139);
 }
 .section{
     gap: 150px;
 }
 .text-card{
-    color: rgb(182, 182, 182);
+    color: rgb(139, 139, 139);
 }
 .card-item{
     padding-left: 280px;
@@ -89,9 +89,37 @@
 .text-2nd{
     padding-right: 200px;   
 }
+.text-pixx{
+    color: rgb(139, 139, 139);
+}
 .button-pix{
     font-size: 23px;
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 10px;
 }
+
+/* helping local  */
+.main-local{
+    background-color:#F5F7FA ;
+    padding-top: 80px;
+}
+.local-all{
+    gap: 200px;
+    
+}
+.local-text{
+    padding-top: 190px;
+    padding-left: 250px;
+}
+.local-section{
+    padding-top: 150px;
+    
+}
+.local-a2{
+    gap: 30px;
+}
+.local-a4{
+    padding-top: 40px;
+}
+
