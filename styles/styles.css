@@ -75,3 +75,23 @@
     padding-left: 280px;
     gap: 200px;
 }
+.text-pix{
+    padding-right: 500px;
+    padding-top: 125px;
+}
+.img-pix{
+    padding-top: 100px;
+    padding-left: 300px;
+}
+.gap-pix{
+     gap: 80px;
+}
+.text-2nd{
+    padding-right: 200px;   
+}
+.button-pix{
+    font-size: 23px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
