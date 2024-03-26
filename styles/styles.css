@@ -56,9 +56,9 @@
 
 /* section our clients */
 .section{
-   gap: 28px;
+   gap: 20px;
    align-items: center;
-   padding-left: 200px;
+   padding-left: 100px;
 }
 
 /* section-2 community */
@@ -71,23 +71,29 @@
 .text-card{
     color: rgb(139, 139, 139);
 }
+
+/* card-item  */
+
 .card-item{
-    padding-left: 280px;
-    gap: 200px;
+    padding-left: 170px;
+    gap: 165px;
 }
 .text-pix{
     padding-right: 500px;
     padding-top: 125px;
 }
+
+
+/* image section  */
 .img-pix{
     padding-top: 100px;
-    padding-left: 300px;
+    padding-left: 180px;
 }
 .gap-pix{
      gap: 80px;
 }
 .text-2nd{
-    padding-right: 200px;   
+    padding-right: 100px;   
 }
 .text-pixx{
     color: rgb(139, 139, 139);
@@ -100,26 +106,36 @@
 }
 
 /* helping local  */
-.main-local{
-    background-color:#F5F7FA ;
-    padding-top: 80px;
-}
-.local-all{
-    gap: 200px;
-    
-}
-.local-text{
-    padding-top: 190px;
-    padding-left: 250px;
-}
-.local-section{
+.all-item{
     padding-top: 150px;
     
 }
+.main-local{
+    background-color:#F5F7FA ;
+      
+}
+.local-all{
+    padding-left: 220px;
+    gap: 150px;
+    
+}
+.local-text{
+    padding-top: 110px;
+    padding-left: 200px;
+}
+.local-section{
+    padding-top: 80px;
+    
+}
+.local-sect{
+    padding-top: 60px;
+}
 .local-a2{
-    gap: 30px;
+   
+    padding-right: 130px;
 }
 .local-a4{
-    padding-top: 40px;
+    padding-top: 80px;
+    
 }
 
